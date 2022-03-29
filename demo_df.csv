@@ -1,0 +1,1001 @@
+id,date_screened,forms,study_fac,token,contact_form,fever,blood_draw,bd_outcome,case_reporting,week,age,gender,field_team,clin_team,vaccinated,reason_for_call,consent_for_vaccination,vac_token,contraindi,SAE_1st3omins
+1,18-09-2021,Due for screening,Facility 2,Issued,Complete,Yes,Pending,Negative,Incomplete,week 2,30,1,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+2,01-07-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Incomplete,week 3,28,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+3,01-10-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Incomplete,week 2,1,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+4,01-07-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 3,17,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+5,01-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 2,8,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+6,28-08-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Done,Positive,Incomplete,week 1,12,1,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+7,01-07-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 3,17,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+8,28-08-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 1,19,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+9,01-07-2021,Due for screening,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 3,4,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+10,01-10-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 2,6,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+11,28-08-2021,Due for screening,Facility 2,Not issued,Complete,No,Pending,Negative,Complete,week 1,14,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+12,01-10-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 2,6,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+13,01-07-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Done,Positive,Incomplete,week 3,10,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+14,01-10-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,2,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+15,01-07-2021,Recruited,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 3,24,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+16,28-08-2021,Recruited,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 1,20,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+17,01-10-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 2,6,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+18,01-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,60,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+19,01-07-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,16,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+20,28-08-2021,Due for screening,Facility 2,Not issued,Complete,No,Done,Negative,Incomplete,week 1,60,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+21,01-07-2021,Due for screening,Facility 1,Issued,Incomplete,No,Done,Negative,Incomplete,week 3,1,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+22,01-10-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 2,60,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+23,01-10-2021,Recruited,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,60,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+24,09-07-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 3,8,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+25,28-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 1,60,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+26,28-08-2021,Recruited,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 1,69,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+27,09-07-2021,Due for screening,Facility 3,Issued,Incomplete,No,Done,Negative,Complete,week 3,13,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+28,28-08-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 1,26,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+29,28-08-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 1,12,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+30,09-07-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 3,63,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+31,09-07-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 3,14,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+32,28-08-2021,Recruited,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 1,60,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+33,18-09-2021,Screened,Facility 2,Issued,Incomplete,No,Done,Negative,Complete,week 2,40,1,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+34,09-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,25,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+35,28-08-2021,Screened,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 1,27,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+36,09-07-2021,Recruited,Facility 2,Issued,Complete,No,Done,Negative,Complete,week 3,2,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+37,28-08-2021,Due for screening,Facility 2,Issued,Incomplete,No,Refused,Negative,Complete,week 1,6,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+38,28-08-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 1,5,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+39,09-07-2021,Recruited,Facility 3,Not issued,Incomplete,No,Refused,Negative,Incomplete,week 3,7,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+40,09-07-2021,Screened,Facility 2,Issued,Complete,No,Done,Negative,Complete,week 3,33,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+41,28-08-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 1,17,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+42,01-10-2021,Screened,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,3,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+43,28-08-2021,Due for screening,Facility 2,Issued,Incomplete,No,Pending,Negative,Complete,week 1,16,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+44,01-10-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 2,11,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+45,28-08-2021,Screened,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 1,20,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+46,01-10-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,17,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+47,09-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,14,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+48,28-08-2021,Screened,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 1,3,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+49,29-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 1,15,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+50,29-08-2021,Recruited,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 1,6,1,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+51,29-08-2021,Recruited,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 1,14,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+52,29-08-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Refused,Negative,Incomplete,week 1,26,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+53,18-09-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,10,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+54,29-08-2021,Due for screening,Facility 3,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 1,15,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+55,29-08-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 1,19,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+56,29-08-2021,Recruited,Facility 3,Not issued,Complete,No,Pending,Negative,Complete,week 1,15,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+57,09-07-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,31,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+58,01-10-2021,Recruited,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 2,11,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+59,09-07-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Incomplete,week 3,22,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+60,29-08-2021,Recruited,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 1,44,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+61,09-07-2021,Due for screening,Facility 2,Issued,Complete,No,Refused,Negative,Complete,week 3,25,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+62,09-07-2021,Recruited,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 3,36,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+63,09-07-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 3,5,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+64,29-08-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 1,70,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+65,18-09-2021,Due for screening,Facility 2,Not issued,Incomplete,No,Done,Negative,Complete,week 2,10,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+66,09-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 3,70,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+67,18-09-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 2,32,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+68,01-10-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 2,9,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+69,09-07-2021,Recruited,Facility 2,Issued,Complete,Yes,Pending,Negative,Incomplete,week 3,70,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+70,29-08-2021,Recruited,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 1,8,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+71,09-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 3,43,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+72,01-10-2021,Recruited,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Complete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+73,01-10-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 2,5,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+74,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 3,14,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+75,09-07-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Complete,week 3,18,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+76,29-08-2021,Screened,Facility 2,Not issued,Complete,Yes,Refused,Negative,Complete,week 1,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+77,01-10-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Incomplete,week 2,24,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+78,09-07-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+79,09-07-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 3,10,2,Notified,Unnotified,No,Acute illness ,Yes,Received,Drug allergy,No
+80,01-10-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 2,81,1,Notified,Notified,No,Acute illness ,Yes,Received,Drug allergy,No
+81,09-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 3,4,2,Unnotified,Unnotified,No,Acute illness ,Yes,Received,Drug allergy,No
+82,18-09-2021,Due for screening,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 2,19,2,Notified,Notified,No,Acute illness ,Yes,Received,Drug allergy,No
+83,18-09-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 2,81,1,Unnotified,Unnotified,No,Acute illness ,Yes,Received,Drug allergy,No
+84,29-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 1,10,2,Notified,Unnotified,No,Acute illness ,Yes,Received,Drug allergy,No
+85,09-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,14,2,Notified,Notified,No,Acute illness ,Yes,Received,Drug allergy,No
+86,29-08-2021,Recruited,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 1,42,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+87,18-09-2021,Due for screening,Facility 2,Issued,Complete,No,Done,Negative,Complete,week 2,19,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+88,18-09-2021,Recruited,Facility 3,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+89,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 3,5,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+90,18-09-2021,Due for screening,Facility 3,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 2,20,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+91,01-10-2021,Screened,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 2,8,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+92,18-09-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+93,09-07-2021,Recruited,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,29,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+94,29-08-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 1,27,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+95,09-07-2021,Due for screening,Facility 1,Issued,Complete,No,Done,Negative,Incomplete,week 3,15,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+96,18-09-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+97,09-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 3,12,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+98,09-07-2021,Screened,Facility 2,Issued,Complete,No,Pending,Negative,Complete,week 3,10,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+99,29-08-2021,Screened,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 1,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+100,29-08-2021,Recruited,Facility 3,Not issued,Complete,No,Pending,Negative,Complete,week 1,15,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+101,29-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 1,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+102,29-08-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Refused,Negative,Incomplete,week 1,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+103,01-10-2021,Recruited,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 2,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+104,29-08-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 1,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+105,09-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 3,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+106,09-07-2021,Due for screening,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 3,38,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+107,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Incomplete,week 3,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+108,01-10-2021,Screened,Facility 1,Not issued,Complete,No,Refused,Negative,Complete,week 2,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+109,09-07-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 3,7,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+110,29-08-2021,Recruited,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 1,19,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+111,09-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 3,27,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+112,01-10-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+113,18-09-2021,Screened,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,9,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+114,09-07-2021,Screened,Facility 1,Issued,Complete,No,Refused,Negative,Complete,week 3,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+115,18-09-2021,Screened,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 2,11,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+116,18-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 2,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+117,09-07-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 3,14,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+118,09-07-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 3,28,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+119,18-09-2021,Screened,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+120,18-09-2021,Due for screening,Facility 1,Not issued,Incomplete,No,Pending,Negative,Complete,week 2,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+121,18-09-2021,Screened,Facility 1,Not issued,Incomplete,No,Refused,Negative,Incomplete,week 2,6,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+122,09-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,5,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+123,18-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 2,4,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+124,29-08-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 1,14,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+125,29-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 1,25,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+126,09-07-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 3,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+127,01-10-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,15,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+128,29-08-2021,Screened,Facility 1,Issued,Incomplete,No,Pending,Negative,Complete,week 1,30,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+129,29-08-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 1,17,2,Notified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+130,29-08-2021,Recruited,Facility 2,Issued,Complete,No,Refused,Negative,Complete,week 1,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+131,18-09-2021,Screened,Facility 3,Not issued,Incomplete,Yes,Done,Positive,Complete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+132,09-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,Drug allergy,No
+133,29-08-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Incomplete,week 1,13,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+134,18-09-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 2,24,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+135,18-09-2021,Screened,Facility 3,Issued,Incomplete,No,Done,Negative,Complete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+136,01-10-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 2,1,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+137,09-07-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 3,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+138,01-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+139,18-09-2021,Due for screening,Facility 3,Issued,Incomplete,No,Refused,Negative,Complete,week 2,38,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+140,09-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 3,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+141,18-09-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 2,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+142,18-09-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Done,Positive,Incomplete,week 2,22,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+143,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Incomplete,week 3,9,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+144,01-10-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,17,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+145,01-10-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,7,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+146,09-07-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Incomplete,week 3,42,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+147,18-09-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Incomplete,week 2,27,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+148,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 3,7,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+149,01-10-2021,Due for screening,Facility 1,Issued,Incomplete,No,Refused,Negative,Complete,week 2,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+150,09-07-2021,Screened,Facility 3,Not issued,Complete,No,Done,Negative,Complete,week 3,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+151,18-09-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 2,2,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+152,29-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 1,35,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+153,01-10-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,14,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+154,18-09-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 2,9,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+155,18-09-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 2,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+156,29-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 1,25,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+157,29-08-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 1,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+158,01-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 2,3,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+159,09-07-2021,Screened,Facility 3,Not issued,Complete,Yes,Refused,Negative,Complete,week 3,16,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+160,01-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+161,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 3,22,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+162,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Incomplete,week 3,27,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+163,18-09-2021,Due for screening,Facility 1,Not issued,Complete,No,Done,Negative,Complete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+164,18-09-2021,Screened,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,6,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+165,18-09-2021,Screened,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 2,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+166,29-08-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 1,4,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+167,18-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 2,16,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+168,29-08-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 1,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+169,09-07-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 3,32,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+170,01-10-2021,Recruited,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 2,3,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+171,09-07-2021,Screened,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 3,14,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+172,01-10-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 2,28,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+173,09-07-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 3,13,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+174,09-07-2021,Recruited,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,24,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+175,29-08-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 1,14,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+176,18-09-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+177,09-07-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 3,35,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+178,01-10-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,22,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+179,29-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 1,26,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+180,18-09-2021,Recruited,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 2,20,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+181,29-08-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 1,7,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+182,18-09-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 2,5,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+183,29-08-2021,Due for screening,Facility 3,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 1,31,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+184,29-08-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 1,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+185,01-10-2021,Recruited,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+186,09-07-2021,Recruited,Facility 1,Issued,Complete,No,Refused,Negative,Complete,week 3,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+187,18-09-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+188,09-07-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 3,23,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+189,18-09-2021,Recruited,Facility 1,Issued,Incomplete,No,Refused,Negative,Incomplete,week 2,9,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+190,29-08-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 1,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+191,09-07-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+192,09-07-2021,Screened,Facility 2,Issued,Complete,No,Pending,Negative,Complete,week 3,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+193,01-10-2021,Due for screening,Facility 1,Issued,Incomplete,No,Refused,Negative,Complete,week 2,10,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+194,18-09-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 2,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+195,18-09-2021,Screened,Facility 3,Issued,Incomplete,No,Done,Negative,Complete,week 2,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+196,18-09-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 2,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+197,29-08-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Refused,Negative,Complete,week 1,7,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+198,21-09-2021,Recruited,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 2,1,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+199,21-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 2,5,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+200,21-09-2021,Due for screening,Facility 3,Issued,Incomplete,No,Done,Negative,Complete,week 2,18,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+201,29-08-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 1,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+202,09-07-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,20,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+203,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 3,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+204,21-09-2021,Due for screening,Facility 2,Issued,Complete,No,Pending,Negative,Complete,week 2,18,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+205,29-08-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 1,10,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+206,09-07-2021,Screened,Facility 2,Issued,Complete,No,Done,Negative,Complete,week 3,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+207,09-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 3,16,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+208,09-07-2021,Screened,Facility 3,Not issued,Complete,No,Done,Negative,Complete,week 3,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+209,21-09-2021,Screened,Facility 2,Issued,Incomplete,No,Pending,Negative,Complete,week 2,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+210,29-08-2021,Recruited,Facility 1,Issued,Complete,No,Pending,Negative,Incomplete,week 1,3,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+211,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 3,12,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+212,09-07-2021,Due for screening,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 3,21,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+213,01-10-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 2,17,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+214,29-08-2021,Recruited,Facility 3,Issued,Complete,Yes,Done,Positive,Incomplete,week 1,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+215,29-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 5,14,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+216,29-08-2021,Screened,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 5,14,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+217,29-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 5,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+218,01-10-2021,Screened,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 5,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+219,09-07-2021,Recruited,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 5,27,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+220,29-08-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 5,29,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+221,29-08-2021,Due for screening,Facility 2,Not issued,Incomplete,No,Pending,Negative,Complete,week 5,10,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+222,01-10-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 5,28,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+223,01-10-2021,Due for screening,Facility 2,Issued,Complete,No,Done,Negative,Complete,week 5,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+224,29-08-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Complete,week 5,30,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+225,29-08-2021,Recruited,Facility 3,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 5,28,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+226,29-08-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 5,15,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+227,21-09-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 5,28,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+228,29-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 5,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+229,09-07-2021,Screened,Facility 2,Issued,Incomplete,No,Done,Negative,Complete,week 5,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+230,29-08-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 5,12,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+231,29-08-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 5,10,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+232,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 5,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+233,09-07-2021,Due for screening,Facility 1,Not issued,Complete,No,Done,Negative,Complete,week 5,20,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+234,29-08-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 5,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+235,21-09-2021,Recruited,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 5,20,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+236,09-07-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 5,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+237,21-09-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 5,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+238,01-10-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 5,27,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+239,01-10-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Refused,Negative,Incomplete,week 5,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+240,09-07-2021,Screened,Facility 1,Issued,Complete,No,Refused,Negative,Complete,week 5,16,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+241,01-10-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 5,15,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+242,09-07-2021,Due for screening,Facility 1,Not issued,Incomplete,No,Pending,Negative,Complete,week 5,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+243,21-09-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 5,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+244,01-10-2021,Recruited,Facility 2,Not issued,Complete,No,Pending,Negative,Complete,week 5,4,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+245,21-09-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 5,9,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+246,21-09-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Incomplete,week 5,13,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+247,09-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 5,10,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+248,21-09-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 5,3,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+249,01-10-2021,Screened,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 5,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+250,21-09-2021,Recruited,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 5,22,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+251,21-09-2021,Due for screening,Facility 1,Not issued,Complete,No,Pending,Negative,Complete,week 5,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+252,09-07-2021,Recruited,Facility 3,Issued,Complete,No,Refused,Negative,Complete,week 5,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+253,01-10-2021,Recruited,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 5,10,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+254,29-08-2021,Screened,Facility 1,Issued,Complete,No,Pending,Negative,Complete,week 5,32,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+255,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 5,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+256,09-07-2021,Recruited,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 5,81,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+257,21-09-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Incomplete,week 5,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+258,29-08-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 5,34,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+259,09-07-2021,Screened,Facility 3,Not issued,Incomplete,No,Done,Negative,Complete,week 5,10,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+260,21-09-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 5,1,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+261,29-08-2021,Screened,Facility 2,Issued,Complete,No,Done,Negative,Complete,week 5,23,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+262,09-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 5,27,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+263,01-10-2021,Recruited,Facility 3,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 5,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+264,29-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 5,18,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+265,09-07-2021,Recruited,Facility 3,Issued,Incomplete,No,Done,Negative,Incomplete,week 5,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+266,21-09-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 5,27,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+267,29-08-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 5,81,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+268,29-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 5,11,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+269,09-07-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Incomplete,week 5,4,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+270,29-08-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 5,3,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+271,01-10-2021,Recruited,Facility 2,Issued,Incomplete,No,Pending,Negative,Complete,week 5,26,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+272,29-08-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 5,7,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+273,09-07-2021,Screened,Facility 3,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 5,5,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+274,21-09-2021,Recruited,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 5,8,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+275,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 5,7,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+276,01-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 5,81,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+277,01-10-2021,Screened,Facility 2,Not issued,Complete,Yes,Refused,Negative,Incomplete,week 5,27,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+278,09-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 5,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+279,29-08-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 5,13,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+280,01-10-2021,Screened,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 5,81,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+281,01-10-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Complete,week 5,24,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+282,29-08-2021,Due for screening,Facility 3,Not issued,Incomplete,Yes,Pending,Negative,Incomplete,week 5,10,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+283,29-08-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 5,8,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+284,21-09-2021,Due for screening,Facility 3,Not issued,Incomplete,No,Pending,Negative,Complete,week 5,22,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+285,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 5,22,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+286,29-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 5,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+287,09-07-2021,Recruited,Facility 3,Not issued,Complete,Yes,Done,Positive,Incomplete,week 5,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+288,01-10-2021,Screened,Facility 3,Not issued,Complete,Yes,Refused,Negative,Complete,week 5,11,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+289,09-07-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 5,22,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+290,01-10-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 5,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+291,21-09-2021,Due for screening,Facility 1,Not issued,Incomplete,No,Pending,Negative,Incomplete,week 5,20,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+292,29-08-2021,Screened,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 5,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+293,09-07-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Incomplete,week 5,12,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+294,09-07-2021,Recruited,Facility 2,Issued,Complete,No,Done,Negative,Complete,week 5,21,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+295,02-10-2021,Due for screening,Facility 1,Issued,Complete,No,Pending,Negative,Complete,week 5,35,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+296,02-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 5,17,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+297,21-09-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Incomplete,week 5,7,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+298,29-08-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Incomplete,week 5,33,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+299,09-07-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 5,20,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+300,29-08-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 5,21,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+301,21-09-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 5,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+302,09-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 5,21,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+303,02-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 5,15,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+304,02-10-2021,Recruited,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 2,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+305,21-09-2021,Due for screening,Facility 2,Not issued,Incomplete,No,Done,Negative,Complete,week 2,10,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+306,29-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+307,02-10-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,21,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+308,09-07-2021,Recruited,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 6,11,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+309,29-08-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,38,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+310,29-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 6,7,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+311,02-10-2021,Recruited,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 6,15,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+312,21-09-2021,Recruited,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 6,95,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+313,02-10-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Incomplete,week 6,16,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+314,21-09-2021,Recruited,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 6,12,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+315,29-08-2021,Recruited,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,4,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+316,09-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 6,25,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+317,29-08-2021,Recruited,Facility 2,Issued,Incomplete,No,Pending,Negative,Complete,week 6,5,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+318,02-10-2021,Screened,Facility 2,Issued,Complete,No,Pending,Negative,Complete,week 6,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+319,09-07-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Incomplete,week 6,16,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+320,29-08-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 6,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+321,09-07-2021,Recruited,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 6,7,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+322,09-07-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 6,7,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+323,30-08-2021,Recruited,Facility 2,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 6,27,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+324,09-07-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+325,30-08-2021,Screened,Facility 3,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 6,2,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+326,21-09-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 6,95,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+327,09-07-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+328,09-07-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 6,19,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+329,02-10-2021,Screened,Facility 2,Not issued,Complete,Yes,Refused,Negative,Complete,week 6,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+330,09-07-2021,Screened,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 6,9,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+331,21-09-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 6,16,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+332,09-07-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 6,3,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+333,09-07-2021,Screened,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 6,26,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+334,09-07-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+335,30-08-2021,Screened,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 6,10,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+336,02-10-2021,Due for screening,Facility 2,Issued,Incomplete,No,Pending,Negative,Complete,week 6,21,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+337,09-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 6,15,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+338,30-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 6,6,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+339,21-09-2021,Recruited,Facility 1,Not issued,Complete,No,Refused,Negative,Complete,week 6,15,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+340,30-08-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Refused,Negative,Incomplete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+341,30-08-2021,Recruited,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 6,15,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+342,02-10-2021,Screened,Facility 2,Issued,Incomplete,No,Pending,Negative,Incomplete,week 6,13,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+343,21-09-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,19,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+344,02-10-2021,Screened,Facility 2,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 6,20,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+345,30-08-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 6,14,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+346,21-09-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,20,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+347,02-10-2021,Recruited,Facility 3,Not issued,Complete,Yes,Done,Positive,Incomplete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+348,09-07-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Incomplete,week 6,11,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+349,21-09-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+350,30-08-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,95,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+351,09-07-2021,Recruited,Facility 1,Not issued,Complete,No,Pending,Negative,Complete,week 6,12,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+352,21-09-2021,Recruited,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,25,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+353,21-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Incomplete,week 6,24,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+354,09-07-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,26,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+355,30-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 6,6,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+356,30-08-2021,Recruited,Facility 1,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 6,32,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+357,02-10-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 6,27,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+358,09-07-2021,Screened,Facility 2,Issued,Incomplete,Yes,Refused,Negative,Complete,week 6,10,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+359,09-07-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 6,28,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+360,02-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 6,8,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+361,21-09-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 6,95,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+362,21-09-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 6,27,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+363,21-09-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Incomplete,week 6,4,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+364,09-07-2021,Recruited,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+365,30-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+366,21-09-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+367,09-07-2021,Screened,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 6,20,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+368,02-10-2021,Recruited,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 6,5,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+369,02-10-2021,Screened,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 6,14,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+370,02-10-2021,Screened,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 6,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+371,30-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 6,15,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+372,21-09-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 6,10,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+373,30-08-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 6,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+374,21-09-2021,Screened,Facility 1,Not issued,Complete,No,Done,Negative,Complete,week 6,11,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+375,30-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Incomplete,week 6,18,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+376,30-08-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Incomplete,week 6,4,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+377,30-08-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 6,14,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+378,30-08-2021,Recruited,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 6,29,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+379,02-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+380,30-08-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 6,17,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+381,21-09-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 6,17,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+382,21-09-2021,Screened,Facility 1,Issued,Complete,No,Refused,Negative,Complete,week 6,33,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+383,09-07-2021,Due for screening,Facility 1,Not issued,Complete,No,Pending,Negative,Incomplete,week 6,14,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+384,30-08-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 6,95,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+385,30-08-2021,Screened,Facility 2,Issued,Incomplete,Yes,Refused,Negative,Incomplete,week 6,13,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+386,30-08-2021,Screened,Facility 2,Issued,Incomplete,Yes,Refused,Negative,Complete,week 6,47,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+387,02-10-2021,Screened,Facility 1,Not issued,Complete,Yes,Refused,Negative,Complete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+388,21-09-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+389,02-10-2021,Recruited,Facility 1,Issued,Incomplete,No,Pending,Negative,Complete,week 6,24,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+390,30-08-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Incomplete,week 6,5,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+391,09-07-2021,Recruited,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,26,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+392,02-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 6,10,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+393,02-10-2021,Recruited,Facility 1,Issued,Complete,Yes,Refused,Negative,Incomplete,week 6,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+394,30-08-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Incomplete,week 6,16,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+395,30-08-2021,Screened,Facility 1,Issued,Complete,No,Refused,Negative,Incomplete,week 6,7,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+396,21-09-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,95,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+397,09-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 6,7,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+398,02-10-2021,Screened,Facility 2,Issued,Complete,No,Done,Negative,Complete,week 6,10,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+399,30-08-2021,Screened,Facility 3,Issued,Incomplete,No,Pending,Negative,Complete,week 6,5,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+400,09-07-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Incomplete,week 6,32,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+401,21-09-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 6,35,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+402,02-10-2021,Recruited,Facility 2,Issued,Complete,Yes,Done,Positive,Incomplete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+403,02-10-2021,Screened,Facility 3,Issued,Incomplete,No,Done,Negative,Incomplete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+404,09-07-2021,Due for screening,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 6,11,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+405,09-07-2021,Recruited,Facility 3,Issued,Incomplete,No,Refused,Negative,Complete,week 6,2,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+406,09-07-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 6,13,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+407,09-07-2021,Recruited,Facility 3,Issued,Complete,No,Pending,Negative,Complete,week 6,12,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+408,09-07-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+409,30-08-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 6,14,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+410,02-10-2021,Recruited,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 6,11,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+411,02-10-2021,Recruited,Facility 1,Issued,Complete,Yes,Refused,Negative,Incomplete,week 6,4,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+412,09-07-2021,Recruited,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+413,02-10-2021,Screened,Facility 1,Not issued,Complete,Yes,Refused,Negative,Incomplete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+414,02-10-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 6,8,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+415,21-09-2021,Recruited,Facility 2,Not issued,Complete,No,Refused,Negative,Complete,week 6,21,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+416,02-10-2021,Due for screening,Facility 3,Issued,Complete,No,Pending,Negative,Complete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+417,30-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 6,20,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+418,21-09-2021,Recruited,Facility 3,Not issued,Incomplete,Yes,Done,Positive,Complete,week 6,4,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+419,30-08-2021,Screened,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+420,09-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Incomplete,week 6,9,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+421,09-07-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Incomplete,week 6,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+422,21-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 6,17,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+423,30-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+424,09-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 6,22,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+425,09-07-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 6,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+426,09-07-2021,Due for screening,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 6,95,1,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+427,21-09-2021,Recruited,Facility 2,Not issued,Complete,No,Refused,Negative,Complete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+428,21-09-2021,Screened,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 6,24,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+429,09-07-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 6,27,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+430,09-07-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+431,30-08-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 6,18,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+432,21-09-2021,Screened,Facility 2,Issued,Incomplete,No,Refused,Negative,Complete,week 6,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+433,09-07-2021,Screened,Facility 3,Issued,Incomplete,No,Done,Negative,Complete,week 6,19,2,Notified,Notified,Yes,Acute illness ,Yes,Received,No,No
+434,30-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 6,8,2,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+435,09-07-2021,Recruited,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 6,9,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+436,02-10-2021,Screened,Facility 1,Not issued,Complete,No,Pending,Negative,Complete,week 6,95,1,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+437,21-09-2021,Recruited,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 6,95,1,Notified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+438,09-07-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 6,11,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+439,02-10-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 6,13,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+440,21-09-2021,Due for screening,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 6,2,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+441,21-09-2021,Recruited,Facility 3,Issued,Incomplete,No,Done,Negative,Complete,week 6,95,1,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+442,02-10-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 6,28,2,Unnotified,Unnotified,Yes,Acute illness ,Yes,Received,No,No
+443,21-09-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 6,23,2,Unnotified,Notified,Yes,Acute illness ,Yes,Received,No,No
+444,21-09-2021,Recruited,Facility 2,Issued,Complete,No,Refused,Negative,Incomplete,week 6,95,1,Unnotified,Notified,No,Acute illness ,Yes,Received,No,No
+445,21-09-2021,Screened,Facility 2,Not issued,Incomplete,No,Refused,Negative,Complete,week 6,25,2,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+446,30-08-2021,Recruited,Facility 2,Issued,Incomplete,No,Done,Negative,Complete,week 6,21,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+447,30-08-2021,Screened,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 6,22,2,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+448,09-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 6,95,1,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+449,09-07-2021,Due for screening,Facility 3,Not issued,Complete,No,Refused,Negative,Complete,week 6,10,2,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+450,02-10-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 6,95,1,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+451,09-07-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 6,12,2,Unnotified,Notified,No,Acute illness ,Yes,Received,No,No
+452,21-09-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 6,12,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+453,09-07-2021,Recruited,Facility 1,Not issued,Complete,No,Pending,Negative,Incomplete,week 6,3,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+454,21-09-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 6,20,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+455,30-08-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 6,17,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+456,09-07-2021,Due for screening,Facility 3,Not issued,Incomplete,Yes,Refused,Negative,Incomplete,week 6,18,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+457,30-08-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 6,10,2,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+458,09-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 6,15,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+459,30-08-2021,Screened,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 6,95,1,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+460,28-07-2021,Screened,Facility 1,Issued,Complete,No,Done,Negative,Incomplete,week 6,23,2,Unnotified,Notified,No,Acute illness ,Yes,Received,No,No
+461,02-10-2021,Screened,Facility 3,Issued,Incomplete,No,Pending,Negative,Complete,week 6,7,1,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+462,21-09-2021,Screened,Facility 3,Not issued,Incomplete,Yes,Done,Positive,Complete,week 6,6,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+463,30-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 6,17,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+464,28-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 6,22,1,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+465,28-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 6,100,1,Notified,Notified,No,Acute illness ,Yes,Received,No,No
+466,02-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 6,100,1,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+467,30-08-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Done,Positive,Incomplete,week 6,19,2,Notified,Notified,No,Acute illness ,Yes,Received,No,No
+468,02-10-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 6,15,2,Notified,Notified,No,Acute illness ,Yes,Received,No,No
+469,02-10-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 6,2,2,Unnotified,Notified,No,Acute illness ,Yes,Received,No,No
+470,21-09-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 6,100,1,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+471,30-08-2021,Screened,Facility 3,Not issued,Incomplete,No,Done,Negative,Complete,week 6,7,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+472,30-08-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 6,15,2,Unnotified,Notified,No,Acute illness ,Yes,Received,No,No
+473,30-08-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 6,100,1,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+474,30-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 6,25,2,Unnotified,Notified,No,Acute illness ,Yes,Received,No,No
+475,30-08-2021,Screened,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 6,100,1,Notified,Notified,No,Acute illness ,Yes,Received,No,No
+476,21-09-2021,Due for screening,Facility 2,Not issued,Complete,No,Pending,Negative,Complete,week 6,100,1,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+477,02-10-2021,Screened,Facility 1,Issued,Complete,No,Refused,Negative,Complete,week 6,32,2,Unnotified,Notified,No,Acute illness ,Yes,Received,No,No
+478,30-08-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Incomplete,week 6,100,1,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+479,02-10-2021,Due for screening,Facility 2,Not issued,Complete,No,Done,Negative,Complete,week 6,100,1,Notified,Notified,No,Acute illness ,Yes,Received,No,No
+480,02-10-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 6,7,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+481,21-09-2021,Screened,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 2,12,2,Unnotified,Notified,No,Acute illness ,Yes,Received,No,No
+482,02-10-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 2,5,2,Notified,Notified,No,Acute illness ,Yes,Received,No,No
+483,21-09-2021,Due for screening,Facility 1,Issued,Incomplete,No,Pending,Negative,Incomplete,week 2,11,2,Notified,Unnotified,No,Acute illness ,Yes,Received,No,No
+484,28-07-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 3,5,2,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+485,28-07-2021,Recruited,Facility 3,Not issued,Incomplete,Yes,Done,Positive,Complete,week 7,100,1,Unnotified,Unnotified,No,Acute illness ,Yes,Received,No,No
+486,28-07-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 7,100,1,Notified,Notified,No,Acute illness ,Yes,Not received,No,No
+487,30-08-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 7,100,1,Unnotified,Notified,No,Acute illness ,Yes,Not received,No,No
+488,28-07-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 7,100,1,Notified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+489,02-10-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 7,29,2,Notified,Notified,No,Acute illness ,Yes,Not received,No,No
+490,28-07-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 7,25,2,Notified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+491,28-07-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 7,3,2,Notified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+492,28-07-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 7,38,1,Unnotified,Notified,No,Acute illness ,Yes,Not received,No,No
+493,02-10-2021,Recruited,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 7,10,1,Notified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+494,30-08-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 7,6,2,Unnotified,Notified,No,Acute illness ,Yes,Not received,No,No
+495,21-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,14,2,Notified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+496,21-09-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 7,10,2,Unnotified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+497,28-07-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,27,2,Unnotified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+498,21-09-2021,Screened,Facility 2,Issued,Incomplete,No,Done,Negative,Incomplete,week 7,7,1,Unnotified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+499,28-07-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,27,2,Notified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+500,30-08-2021,Screened,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 7,21,2,Unnotified,Notified,No,Acute illness ,Yes,Not received,No,No
+501,30-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 7,13,2,Notified,Notified,No,Acute illness ,Yes,Not received,No,No
+502,02-10-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 7,24,2,Unnotified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+503,02-10-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,12,2,Unnotified,Unnotified,No,Acute illness ,Yes,Not received,No,No
+504,28-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,12,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+505,21-09-2021,Recruited,Facility 1,Not issued,Complete,No,Pending,Negative,Incomplete,week 7,22,2,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+506,30-08-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Complete,week 7,17,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+507,30-08-2021,Recruited,Facility 3,Not issued,Complete,No,Done,Negative,Complete,week 7,17,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+508,28-07-2021,Recruited,Facility 2,Issued,Incomplete,No,Done,Negative,Complete,week 7,28,2,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+509,02-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 7,1,2,Notified,Unnotified,No,Other illness ,Yes,Not received,No,No
+510,30-08-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Incomplete,week 7,11,2,Notified,Notified,No,Other illness ,Yes,Not received,No,No
+511,21-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,17,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+512,21-09-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Incomplete,week 7,7,2,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+513,02-10-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 7,25,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+514,28-07-2021,Screened,Facility 2,Issued,Incomplete,Yes,Refused,Negative,Complete,week 7,6,2,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+515,30-08-2021,Due for screening,Facility 1,Issued,Complete,No,Refused,Negative,Complete,week 7,29,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+516,30-08-2021,Screened,Facility 2,Not issued,Complete,Yes,Done,Positive,Incomplete,week 7,11,1,Notified,Unnotified,No,Other illness ,Yes,Not received,No,No
+517,28-07-2021,Recruited,Facility 2,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 7,11,1,Notified,Notified,No,Other illness ,Yes,Not received,No,No
+518,02-10-2021,Recruited,Facility 1,Not issued,Incomplete,No,Done,Negative,Incomplete,week 7,3,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+519,28-07-2021,Screened,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 7,2,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+520,02-10-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Incomplete,week 7,21,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+521,30-08-2021,Due for screening,Facility 1,Not issued,Incomplete,No,Done,Negative,Complete,week 7,13,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+522,21-09-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,39,2,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+523,02-10-2021,Due for screening,Facility 2,Issued,Complete,No,Done,Negative,Complete,week 7,20,1,Notified,Notified,No,Other illness ,Yes,Not received,No,No
+524,21-09-2021,Recruited,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 7,21,2,Notified,Unnotified,No,Other illness ,Yes,Not received,No,No
+525,21-09-2021,Screened,Facility 2,Issued,Complete,No,Pending,Negative,Complete,week 7,36,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+526,21-09-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,25,2,Notified,Notified,No,Other illness ,Yes,Not received,No,No
+527,02-10-2021,Screened,Facility 2,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 7,18,2,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+528,21-09-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,15,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+529,28-07-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,7,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+530,02-10-2021,Recruited,Facility 2,Issued,Incomplete,No,Done,Negative,Complete,week 7,33,1,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+531,28-07-2021,Due for screening,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 7,13,1,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+532,02-10-2021,Due for screening,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 7,21,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+533,21-09-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 7,5,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+534,28-07-2021,Screened,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 7,9,1,Notified,Unnotified,No,Other illness ,Yes,Not received,No,No
+535,21-09-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 7,21,1,Notified,Unnotified,No,Other illness ,Yes,Not received,No,No
+536,02-10-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,36,2,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+537,28-07-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 7,10,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+538,21-09-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 7,6,1,Notified,Unnotified,No,Other illness ,Yes,Not received,No,No
+539,28-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 7,10,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+540,28-07-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 7,27,2,Notified,Unnotified,No,Other illness ,Yes,Not received,No,No
+541,02-10-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 7,20,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+542,21-09-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Complete,week 7,21,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+543,30-08-2021,Recruited,Facility 3,Issued,Incomplete,No,Done,Negative,Incomplete,week 7,19,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+544,02-10-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 7,20,1,Notified,Notified,No,Other illness ,Yes,Not received,No,No
+545,21-09-2021,Screened,Facility 1,Issued,Complete,No,Refused,Negative,Complete,week 7,19,2,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+546,02-10-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,34,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+547,28-07-2021,Screened,Facility 1,Issued,Incomplete,No,Refused,Negative,Complete,week 7,25,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+548,30-08-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 7,13,1,Unnotified,Notified,No,Other illness ,Yes,Not received,No,No
+549,30-08-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 7,10,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+550,30-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 7,17,1,Notified,Unnotified,No,Other illness ,Yes,Not received,No,No
+551,30-08-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,8,1,Notified,Unnotified,No,Other illness ,Yes,Not received,No,No
+552,21-09-2021,Recruited,Facility 2,Issued,Complete,No,Done,Negative,Incomplete,week 7,7,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+553,28-07-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Refused,Negative,Complete,week 7,5,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+554,02-10-2021,Recruited,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 7,4,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+555,02-10-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,20,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+556,21-09-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,19,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+557,02-10-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 7,4,2,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+558,30-08-2021,Recruited,Facility 3,Issued,Incomplete,No,Pending,Negative,Incomplete,week 7,23,1,Unnotified,Unnotified,No,Other illness ,Yes,Not received,No,No
+559,02-10-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 7,1,1,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+560,02-10-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,7,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+561,28-07-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Complete,week 7,16,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+562,02-10-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Incomplete,week 7,17,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+563,28-07-2021,Recruited,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 7,10,1,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+564,02-10-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Refused,Negative,Incomplete,week 7,7,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+565,30-08-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 7,11,1,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+566,28-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 7,24,1,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+567,30-08-2021,Recruited,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 7,2,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+568,28-07-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,3,1,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+569,30-08-2021,Due for screening,Facility 2,Issued,Incomplete,No,Pending,Negative,Complete,week 7,10,2,Unnotified,Notified,No,Emergency ,Yes,Not received,No,No
+570,28-07-2021,Recruited,Facility 3,Issued,Incomplete,No,Refused,Negative,Complete,week 7,13,1,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+571,21-09-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Done,Positive,Incomplete,week 7,18,2,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+572,30-08-2021,Due for screening,Facility 2,Issued,Incomplete,No,Done,Negative,Incomplete,week 7,11,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+573,21-09-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,19,1,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+574,21-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 7,13,1,Unnotified,Notified,No,Emergency ,Yes,Not received,No,No
+575,28-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Incomplete,week 7,16,2,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+576,28-07-2021,Due for screening,Facility 1,Not issued,Complete,No,Refused,Negative,Complete,week 7,23,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+577,30-08-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 7,6,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+578,28-07-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,22,2,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+579,28-09-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,13,1,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+580,28-09-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 7,10,2,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+581,28-07-2021,Screened,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 7,1,1,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+582,28-07-2021,Screened,Facility 1,Not issued,Complete,No,Pending,Negative,Incomplete,week 7,26,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+583,28-07-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 7,24,1,Unnotified,Notified,No,Emergency ,Yes,Not received,No,No
+584,10-10-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 7,8,2,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+585,10-10-2021,Recruited,Facility 3,Not issued,Complete,Yes,Pending,Negative,Incomplete,week 7,27,1,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+586,30-08-2021,Recruited,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 7,16,1,Unnotified,Notified,No,Emergency ,Yes,Not received,No,No
+587,30-08-2021,Due for screening,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 7,7,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+588,28-07-2021,Screened,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 7,27,1,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+589,28-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,10,2,Unnotified,Notified,No,Emergency ,Yes,Not received,No,No
+590,10-10-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 7,15,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+591,31-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Incomplete,week 7,16,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+592,28-07-2021,Recruited,Facility 1,Not issued,Incomplete,Yes,Refused,Negative,Incomplete,week 7,26,2,Unnotified,Notified,No,Emergency ,Yes,Not received,No,No
+593,28-07-2021,Due for screening,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 7,2,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+594,28-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,5,1,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+595,31-08-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 7,5,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+596,10-10-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 7,15,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+597,31-08-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Pending,Negative,Incomplete,week 7,7,1,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+598,28-07-2021,Due for screening,Facility 1,Not issued,Complete,No,Pending,Negative,Complete,week 7,21,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+599,28-07-2021,Recruited,Facility 3,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 7,12,2,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+600,31-08-2021,Screened,Facility 1,Issued,Complete,No,Done,Negative,Incomplete,week 7,30,1,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+601,28-07-2021,Due for screening,Facility 3,Not issued,Complete,No,Refused,Negative,Incomplete,week 7,9,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+602,28-07-2021,Recruited,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,15,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+603,28-09-2021,Recruited,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 7,17,1,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+604,28-07-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 7,5,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+605,10-10-2021,Screened,Facility 1,Not issued,Incomplete,No,Done,Negative,Complete,week 7,13,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+606,28-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,16,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+607,28-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,18,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+608,31-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,25,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+609,28-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 7,22,1,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+610,28-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 7,8,1,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+611,28-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,7,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+612,10-10-2021,Due for screening,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 7,13,2,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+613,28-09-2021,Screened,Facility 3,Not issued,Complete,No,Refused,Negative,Complete,week 7,31,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+614,31-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,7,2,Unnotified,Notified,No,Emergency ,Yes,Not received,No,No
+615,31-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,1,1,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+616,31-08-2021,Recruited,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 7,14,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+617,28-09-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,25,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+618,28-09-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,5,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+619,28-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,24,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+620,10-10-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,2,2,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+621,28-09-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 7,24,1,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+622,10-10-2021,Due for screening,Facility 1,Not issued,Complete,No,Done,Negative,Complete,week 7,19,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+623,28-07-2021,Screened,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 7,7,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+624,10-10-2021,Due for screening,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 7,12,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+625,31-08-2021,Screened,Facility 1,Not issued,Complete,No,Done,Negative,Complete,week 7,17,1,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+626,28-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 7,4,2,Unnotified,Notified,No,Emergency ,Yes,Not received,No,No
+627,28-07-2021,Recruited,Facility 3,Issued,Incomplete,No,Pending,Negative,Complete,week 7,10,2,Unnotified,Unnotified,No,Emergency ,Yes,Not received,No,No
+628,28-09-2021,Screened,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 7,9,1,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+629,28-07-2021,Screened,Facility 2,Issued,Incomplete,No,Done,Negative,Complete,week 7,6,1,Notified,Notified,No,Emergency ,Yes,Not received,No,No
+630,28-07-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,28,2,Unnotified,Notified,No,Emergency ,Yes,Not received,No,No
+631,10-10-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 7,19,1,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+632,28-09-2021,Due for screening,Facility 1,Not issued,Complete,No,Done,Negative,Incomplete,week 7,23,2,Unnotified,Notified,No,Emergency ,Yes,Not received,No,No
+633,31-08-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 7,5,2,Notified,Unnotified,No,Emergency ,Yes,Not received,No,No
+634,31-08-2021,Due for screening,Facility 3,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 7,31,1,Notified,Unnotified,No,Emergency ,No,Not received,No,No
+635,31-08-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,11,1,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+636,28-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,19,2,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+637,28-07-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 7,14,1,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+638,10-10-2021,Screened,Facility 1,Not issued,Incomplete,No,Pending,Negative,Complete,week 7,12,2,Notified,Unnotified,No,Emergency ,No,Not received,No,No
+639,28-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,5,2,Notified,Unnotified,No,Emergency ,No,Not received,No,No
+640,10-10-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,17,2,Notified,Notified,No,Emergency ,No,Not received,No,No
+641,28-07-2021,Recruited,Facility 2,Not issued,Incomplete,No,Refused,Negative,Complete,week 7,10,1,Notified,Unnotified,No,Emergency ,No,Not received,No,No
+642,10-10-2021,Recruited,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,12,2,Unnotified,Notified,No,Emergency ,No,Not received,No,No
+643,28-09-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Complete,week 7,32,1,Notified,Unnotified,No,Emergency ,No,Not received,No,No
+644,10-10-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 7,17,2,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+645,10-10-2021,Screened,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 7,9,1,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+646,10-10-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 7,4,1,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+647,28-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 7,22,2,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+648,10-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,9,1,Notified,Unnotified,No,Emergency ,No,Not received,No,No
+649,28-07-2021,Screened,Facility 1,Not issued,Complete,No,Refused,Negative,Complete,week 7,1,2,Notified,Unnotified,No,Emergency ,No,Not received,No,No
+650,10-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 7,1,2,Notified,Notified,No,Emergency ,No,Not received,No,No
+651,31-08-2021,Screened,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 7,26,2,Unnotified,Notified,No,Emergency ,No,Not received,No,No
+652,28-09-2021,Recruited,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 7,20,2,Notified,Notified,No,Emergency ,No,Not received,No,No
+653,31-08-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,6,1,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+654,31-08-2021,Recruited,Facility 3,Not issued,Incomplete,Yes,Done,Positive,Complete,week 7,23,1,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+655,31-08-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Incomplete,week 7,17,2,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+656,28-09-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Incomplete,week 7,19,2,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+657,28-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,8,2,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+658,28-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,15,1,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+659,28-09-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,6,2,Unnotified,Unnotified,No,Emergency ,No,Not received,No,No
+660,28-07-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,12,2,Notified,Unnotified,No,Emergency ,No,Not received,No,No
+661,28-09-2021,Due for screening,Facility 1,Issued,Complete,No,Refused,Negative,Complete,week 7,6,2,Unnotified,Notified,No,Emergency ,No,Not received,No,No
+662,28-07-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 7,12,1,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+663,31-08-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Incomplete,week 7,20,2,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+664,31-08-2021,Recruited,Facility 1,Not issued,Complete,No,Done,Negative,Incomplete,week 7,27,1,Unnotified,Notified,No,Emergency ,No,Not received,Currently ill,No
+665,28-07-2021,Screened,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 7,10,1,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+666,28-07-2021,Screened,Facility 1,Issued,Incomplete,No,Refused,Negative,Complete,week 7,20,2,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+667,28-09-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,13,1,Notified,Notified,No,Emergency ,No,Not received,Currently ill,No
+668,28-07-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,27,2,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+669,28-07-2021,Screened,Facility 3,Issued,Incomplete,No,Done,Negative,Complete,week 7,8,1,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+670,10-10-2021,Recruited,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 7,19,2,Unnotified,Notified,No,Emergency ,No,Not received,Currently ill,No
+671,10-10-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,26,2,Unnotified,Notified,No,Emergency ,No,Not received,Currently ill,No
+672,28-07-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,2,1,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+673,28-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 7,11,2,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+674,10-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 7,5,1,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+675,28-07-2021,Recruited,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 7,24,2,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+676,28-07-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Done,Positive,Incomplete,week 7,16,1,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+677,28-07-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,20,1,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+678,28-07-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 7,44,2,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+679,28-09-2021,Due for screening,Facility 2,Issued,Incomplete,No,Pending,Negative,Complete,week 7,23,2,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+680,28-07-2021,Screened,Facility 3,Issued,Incomplete,No,Refused,Negative,Complete,week 7,3,2,Unnotified,Notified,No,Emergency ,No,Not received,Currently ill,No
+681,31-08-2021,Recruited,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 7,9,2,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+682,31-08-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Refused,Negative,Complete,week 7,11,2,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+683,28-09-2021,Screened,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 7,1,1,Unnotified,Notified,No,Emergency ,No,Not received,Currently ill,No
+684,28-07-2021,Recruited,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 7,9,2,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+685,10-10-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 7,18,2,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+686,10-10-2021,Screened,Facility 3,Issued,Complete,No,Pending,Negative,Complete,week 7,7,1,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+687,28-09-2021,Recruited,Facility 3,Issued,Complete,No,Pending,Negative,Complete,week 7,23,2,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+688,28-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,34,1,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+689,28-07-2021,Screened,Facility 2,Issued,Complete,No,Done,Negative,Incomplete,week 7,10,2,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+690,28-07-2021,Recruited,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 7,17,2,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+691,28-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,25,2,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+692,28-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,14,1,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+693,28-07-2021,Screened,Facility 2,Issued,Complete,No,Done,Negative,Incomplete,week 7,8,1,Unnotified,Notified,No,Emergency ,No,Not received,Currently ill,No
+694,28-09-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Incomplete,week 7,5,2,Notified,Notified,No,Emergency ,No,Not received,Currently ill,No
+695,28-09-2021,Due for screening,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 7,24,1,Notified,Notified,No,Emergency ,No,Not received,Currently ill,No
+696,28-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 7,15,2,Notified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+697,31-08-2021,Due for screening,Facility 1,Not issued,Complete,No,Done,Negative,Incomplete,week 7,17,1,Notified,Notified,No,Emergency ,No,Not received,Currently ill,No
+698,31-08-2021,Recruited,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,23,2,Unnotified,Unnotified,No,Emergency ,No,Not received,Currently ill,No
+699,10-10-2021,Due for screening,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 7,20,1,Notified,Notified,No,Emergency ,No,Not received,Currently ill,No
+700,28-09-2021,Screened,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,19,2,Unnotified,Notified,No,Emergency ,No,Not received,Currently ill,No
+701,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,13,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+702,10-10-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,22,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+703,28-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 7,33,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+704,28-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,19,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+705,31-08-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 7,35,1,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,No
+706,10-10-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,6,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+707,28-07-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 7,8,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,No
+708,10-10-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,6,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+709,28-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 7,5,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+710,31-08-2021,Screened,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,16,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,No
+711,31-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,6,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,No
+712,31-08-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 7,4,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+713,28-09-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 7,21,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,No
+714,28-09-2021,Screened,Facility 3,Issued,Incomplete,No,Done,Negative,Complete,week 7,1,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+715,28-09-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 7,22,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+716,28-07-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 7,12,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+717,28-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 7,8,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,No
+718,10-10-2021,Screened,Facility 1,Issued,Complete,No,Refused,Negative,Incomplete,week 7,5,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+719,31-08-2021,Screened,Facility 2,Issued,Incomplete,No,Pending,Negative,Complete,week 7,21,1,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+720,31-08-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 7,22,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+721,10-10-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,7,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+722,28-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 7,10,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+723,28-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 7,24,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+724,28-09-2021,Screened,Facility 2,Issued,Incomplete,No,Refused,Negative,Incomplete,week 2,29,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+725,10-10-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 2,9,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+726,31-08-2021,Screened,Facility 3,Not issued,Incomplete,Yes,Done,Positive,Complete,week 1,4,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+727,28-09-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 2,13,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+728,28-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,34,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+729,28-09-2021,Due for screening,Facility 1,Issued,Incomplete,No,Done,Negative,Incomplete,week 2,9,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+730,28-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 3,3,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+731,28-07-2021,Screened,Facility 3,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 3,7,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+732,10-10-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 2,18,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+733,10-10-2021,Screened,Facility 2,Not issued,Complete,Yes,Refused,Negative,Complete,week 2,1,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+734,10-10-2021,Due for screening,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 2,14,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+735,28-07-2021,Due for screening,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 3,27,1,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+736,28-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 3,12,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+737,10-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 2,20,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+738,28-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,23,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+739,31-08-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 1,13,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+740,10-10-2021,Screened,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 2,12,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+741,31-08-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 1,12,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+742,15-10-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 2,8,1,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+743,15-10-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Incomplete,week 2,44,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+744,28-09-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 2,23,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+745,28-07-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Incomplete,week 3,13,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+746,28-07-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Incomplete,week 3,3,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+747,28-07-2021,Due for screening,Facility 1,Issued,Complete,No,Done,Negative,Incomplete,week 3,2,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+748,28-07-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 3,18,1,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+749,31-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 1,23,1,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+750,15-10-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 2,30,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+751,28-09-2021,Screened,Facility 1,Not issued,Incomplete,No,Done,Negative,Complete,week 2,24,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+752,28-07-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Incomplete,week 3,22,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+753,15-10-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Refused,Negative,Complete,week 2,17,1,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+754,31-08-2021,Due for screening,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 1,30,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+755,28-09-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 2,26,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+756,28-07-2021,Due for screening,Facility 1,Not issued,Complete,No,Pending,Negative,Incomplete,week 3,9,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+757,28-07-2021,Screened,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 3,22,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+758,28-09-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 2,24,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+759,31-08-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 1,23,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+760,28-07-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Refused,Negative,Complete,week 3,21,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+761,15-10-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 2,2,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+762,31-08-2021,Due for screening,Facility 2,Not issued,Complete,No,Pending,Negative,Incomplete,week 1,20,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+763,28-09-2021,Screened,Facility 2,Issued,Incomplete,No,Pending,Negative,Complete,week 2,26,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+764,28-09-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Incomplete,week 2,11,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+765,28-07-2021,Screened,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 3,26,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+766,28-09-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,31,1,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+767,28-09-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 2,9,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+768,28-09-2021,Screened,Facility 1,Not issued,Complete,Yes,Refused,Negative,Complete,week 2,23,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+769,28-09-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 2,21,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+770,31-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Incomplete,week 1,24,1,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+771,28-07-2021,Screened,Facility 1,Not issued,Incomplete,No,Pending,Negative,Complete,week 3,22,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+772,28-07-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 3,38,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+773,31-08-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 1,4,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+774,28-07-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 3,16,1,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+775,15-10-2021,Due for screening,Facility 3,Not issued,Complete,No,Pending,Negative,Complete,week 2,21,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+776,31-08-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Incomplete,week 1,9,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+777,31-08-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 1,13,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+778,28-09-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Refused,Negative,Complete,week 2,11,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+779,15-10-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 2,8,1,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+780,28-07-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 3,3,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+781,28-07-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 3,22,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+782,31-08-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Incomplete,week 1,14,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+783,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 1,26,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+784,28-07-2021,Due for screening,Facility 1,Issued,Complete,No,Pending,Negative,Complete,week 3,34,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+785,28-09-2021,Screened,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 2,26,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+786,31-08-2021,Screened,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 1,10,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+787,15-10-2021,Due for screening,Facility 3,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 2,22,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+788,28-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 3,11,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+789,28-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 2,10,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+790,31-08-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 1,12,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+791,28-09-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Refused,Negative,Complete,week 2,9,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+792,28-07-2021,Screened,Facility 1,Not issued,Incomplete,No,Done,Negative,Complete,week 3,2,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+793,28-07-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,1,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+794,28-09-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,14,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+795,31-08-2021,Recruited,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 1,19,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+796,15-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Incomplete,week 2,9,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+797,15-10-2021,Recruited,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 2,24,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+798,28-07-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Incomplete,week 3,36,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+799,15-10-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Refused,Negative,Complete,week 2,20,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+800,28-07-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 3,35,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+801,15-10-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Done,Positive,Incomplete,week 2,14,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+802,31-08-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 1,8,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+803,28-07-2021,Due for screening,Facility 2,Not issued,Incomplete,No,Done,Negative,Complete,week 3,28,1,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+804,31-08-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Pending,Negative,Incomplete,week 1,29,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+805,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 1,13,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+806,28-07-2021,Screened,Facility 3,Issued,Incomplete,No,Pending,Negative,Complete,week 3,38,1,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+807,31-08-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 1,14,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+808,31-08-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 1,13,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+809,15-10-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,24,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+810,28-07-2021,Screened,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 3,21,1,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+811,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 1,8,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+812,28-07-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 3,9,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+813,15-10-2021,Due for screening,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 2,21,1,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+814,31-08-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 1,6,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+815,15-10-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Refused,Negative,Complete,week 2,38,2,Unnotified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+816,28-07-2021,Due for screening,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 3,2,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+817,15-10-2021,Screened,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 2,25,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+818,15-10-2021,Recruited,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 2,11,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+819,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 1,23,2,Notified,Notified,No,Non related ,No,Not received,Currently ill,Yes
+820,15-10-2021,Recruited,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 2,2,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+821,28-07-2021,Due for screening,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 3,4,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+822,28-09-2021,Recruited,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,17,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+823,28-09-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Incomplete,week 2,25,1,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+824,31-08-2021,Due for screening,Facility 3,Not issued,Complete,No,Pending,Negative,Complete,week 1,19,2,Unnotified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+825,28-07-2021,Recruited,Facility 3,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 3,31,2,Notified,Unnotified,No,Non related ,No,Not received,Currently ill,Yes
+826,28-09-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Complete,week 2,27,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+827,28-07-2021,Due for screening,Facility 1,Not issued,Complete,No,Done,Negative,Incomplete,week 3,34,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+828,28-09-2021,Due for screening,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 2,19,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+829,28-07-2021,Recruited,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 3,12,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+830,31-08-2021,Recruited,Facility 1,Not issued,Incomplete,No,Pending,Negative,Complete,week 1,14,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+831,15-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Incomplete,week 2,4,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+832,31-08-2021,Due for screening,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 1,26,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+833,28-07-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 3,1,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+834,31-08-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 1,17,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+835,28-09-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 2,16,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+836,28-07-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 3,10,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+837,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 1,3,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+838,15-10-2021,Screened,Facility 2,Not issued,Complete,No,Done,Negative,Incomplete,week 2,28,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+839,28-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 3,14,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+840,15-10-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 2,39,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+841,15-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 2,31,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+842,28-09-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 2,8,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+843,28-09-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Complete,week 2,7,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+844,28-07-2021,Recruited,Facility 1,Issued,Complete,Yes,Pending,Negative,Incomplete,week 3,5,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+845,28-09-2021,Screened,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 2,37,1,Notified,Notified,No,Non related ,No,Not received,Others ,Yes
+846,31-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 1,20,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+847,28-09-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,8,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+848,28-07-2021,Due for screening,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 3,14,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+849,28-07-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 3,22,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+850,28-09-2021,Screened,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 2,35,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+851,28-09-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 2,28,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+852,31-08-2021,Recruited,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 1,2,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+853,31-08-2021,Recruited,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 1,13,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+854,28-07-2021,Recruited,Facility 2,Not issued,Complete,No,Pending,Negative,Complete,week 3,13,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+855,28-07-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 3,4,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+856,28-07-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Refused,Negative,Complete,week 3,6,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+857,31-08-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 1,26,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+858,31-08-2021,Due for screening,Facility 3,Not issued,Incomplete,No,Pending,Negative,Complete,week 1,17,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+859,15-10-2021,Recruited,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 2,13,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+860,31-08-2021,Screened,Facility 2,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 1,10,1,Notified,Notified,No,Non related ,No,Not received,Others ,Yes
+861,15-10-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Refused,Negative,Incomplete,week 2,15,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+862,28-07-2021,Screened,Facility 1,Issued,Incomplete,No,Refused,Negative,Incomplete,week 3,9,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+863,15-10-2021,Recruited,Facility 1,Not issued,Incomplete,No,Done,Negative,Complete,week 2,3,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+864,28-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 3,2,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+865,28-09-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 2,18,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+866,15-10-2021,Recruited,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,26,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+867,31-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 1,40,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+868,28-07-2021,Recruited,Facility 1,Issued,Complete,No,Refused,Negative,Complete,week 3,2,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+869,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 1,40,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+870,31-08-2021,Screened,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 1,10,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+871,28-07-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 3,24,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+872,31-08-2021,Screened,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 1,12,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+873,15-10-2021,Due for screening,Facility 2,Issued,Complete,No,Refused,Negative,Complete,week 2,19,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+874,28-07-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,23,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+875,31-08-2021,Screened,Facility 2,Not issued,Complete,Yes,Refused,Negative,Complete,week 1,32,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+876,28-09-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 2,16,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+877,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 1,17,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+878,30-07-2021,Screened,Facility 2,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,7,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+879,31-08-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Refused,Negative,Complete,week 1,21,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+880,28-09-2021,Recruited,Facility 1,Not issued,Complete,Yes,Refused,Negative,Complete,week 2,22,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+881,31-08-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 1,22,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+882,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 1,2,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+883,31-08-2021,Recruited,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 1,8,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+884,31-08-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 1,6,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+885,15-10-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,16,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+886,15-10-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 2,15,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+887,30-07-2021,Due for screening,Facility 2,Issued,Incomplete,No,Done,Negative,Complete,week 3,11,1,Notified,Notified,No,Non related ,No,Not received,Others ,Yes
+888,28-09-2021,Screened,Facility 3,Issued,Incomplete,Yes,Refused,Negative,Complete,week 2,13,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+889,31-08-2021,Screened,Facility 1,Issued,Complete,No,Refused,Negative,Complete,week 1,27,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+890,31-08-2021,Recruited,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 1,17,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+891,15-10-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Incomplete,week 2,27,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+892,30-07-2021,Due for screening,Facility 1,Issued,Complete,No,Pending,Negative,Complete,week 3,18,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+893,28-09-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,11,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+894,30-07-2021,Screened,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 3,22,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+895,30-07-2021,Screened,Facility 2,Issued,Complete,No,Done,Negative,Complete,week 3,25,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+896,28-09-2021,Screened,Facility 3,Issued,Incomplete,No,Refused,Negative,Complete,week 2,6,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+897,30-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 3,17,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+898,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 1,12,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+899,30-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 3,22,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+900,28-09-2021,Screened,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,5,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+901,30-07-2021,Screened,Facility 2,Not issued,Complete,Yes,Done,Positive,Incomplete,week 3,5,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+902,30-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,20,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+903,28-09-2021,Due for screening,Facility 1,Not issued,Complete,No,Done,Negative,Complete,week 2,24,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+904,30-07-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 3,4,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+905,30-07-2021,Screened,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 3,10,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+906,30-07-2021,Recruited,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 3,4,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+907,15-10-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Done,Positive,Complete,week 2,35,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+908,31-08-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 1,19,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+909,31-08-2021,Recruited,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 1,4,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+910,30-07-2021,Recruited,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,13,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+911,28-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 2,1,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+912,15-10-2021,Due for screening,Facility 1,Issued,Complete,No,Pending,Negative,Complete,week 2,26,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+913,30-07-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 3,6,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+914,30-07-2021,Due for screening,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 3,3,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+915,15-10-2021,Screened,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Complete,week 2,13,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+916,31-08-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 1,13,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+917,31-08-2021,Recruited,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 1,10,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+918,15-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 2,8,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+919,15-10-2021,Due for screening,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 2,19,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+920,15-10-2021,Screened,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 2,26,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+921,27-10-2021,Screened,Facility 3,Not issued,Incomplete,No,Done,Negative,Complete,week 2,13,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+922,28-09-2021,Screened,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 2,21,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+923,28-09-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 2,21,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+924,28-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 2,19,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+925,31-08-2021,Recruited,Facility 1,Issued,Incomplete,No,Refused,Negative,Complete,week 1,25,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+926,29-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 2,18,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+927,30-07-2021,Recruited,Facility 2,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,22,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+928,30-07-2021,Due for screening,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 3,31,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+929,27-10-2021,Screened,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 2,17,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+930,27-10-2021,Recruited,Facility 3,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 2,6,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+931,27-10-2021,Screened,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 2,1,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+932,30-07-2021,Due for screening,Facility 1,Not issued,Complete,No,Done,Negative,Complete,week 3,25,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+933,29-09-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Incomplete,week 2,20,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+934,30-07-2021,Screened,Facility 3,Not issued,Complete,No,Refused,Negative,Complete,week 3,7,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+935,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 1,5,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+936,29-09-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Incomplete,week 2,8,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+937,31-08-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Incomplete,week 1,3,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+938,30-07-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Done,Positive,Complete,week 3,7,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+939,30-07-2021,Recruited,Facility 1,Issued,Complete,No,Pending,Negative,Incomplete,week 3,15,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+940,27-10-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 2,19,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+941,29-09-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 2,35,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+942,30-07-2021,Due for screening,Facility 3,Not issued,Incomplete,Yes,Done,Positive,Complete,week 3,28,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+943,27-10-2021,Screened,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,32,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+944,27-10-2021,Recruited,Facility 2,Issued,Incomplete,Yes,Refused,Negative,Incomplete,week 2,6,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+945,31-08-2021,Recruited,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Complete,week 1,12,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+946,31-08-2021,Due for screening,Facility 1,Issued,Incomplete,No,Done,Negative,Complete,week 1,23,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+947,30-07-2021,Screened,Facility 2,Not issued,Incomplete,Yes,Done,Positive,Complete,week 3,28,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+948,30-07-2021,Screened,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 3,18,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+949,29-09-2021,Screened,Facility 3,Issued,Complete,Yes,Done,Positive,Complete,week 2,5,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+950,27-10-2021,Recruited,Facility 3,Issued,Complete,Yes,Refused,Negative,Incomplete,week 2,13,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+951,27-10-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,2,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+952,29-09-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 2,3,1,Unnotified,Notified,No,Non related ,No,Not received,Others ,Yes
+953,27-10-2021,Recruited,Facility 2,Issued,Incomplete,Yes,Pending,Negative,Complete,week 2,14,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+954,30-07-2021,Screened,Facility 1,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,21,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+955,30-07-2021,Recruited,Facility 2,Issued,Incomplete,Yes,Refused,Negative,Complete,week 3,1,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+956,31-08-2021,Due for screening,Facility 2,Not issued,Complete,Yes,Pending,Negative,Complete,week 1,8,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+957,31-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Pending,Negative,Incomplete,week 1,10,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,Yes
+958,31-08-2021,Screened,Facility 3,Not issued,Complete,Yes,Refused,Negative,Complete,week 1,12,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+959,31-08-2021,Due for screening,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 1,24,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+960,30-07-2021,Due for screening,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 3,34,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,Yes
+961,29-09-2021,Due for screening,Facility 1,Not issued,Incomplete,Yes,Refused,Negative,Incomplete,week 2,6,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+962,30-07-2021,Screened,Facility 1,Not issued,Incomplete,No,Done,Negative,Complete,week 3,21,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,Yes
+963,30-07-2021,Recruited,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 3,11,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,No
+964,30-07-2021,Screened,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 3,11,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,No
+965,30-07-2021,Due for screening,Facility 1,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 3,6,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,No
+966,31-08-2021,Screened,Facility 2,Not issued,Complete,No,Pending,Negative,Incomplete,week 1,7,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,No
+967,30-07-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Incomplete,week 3,16,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,No
+968,31-08-2021,Screened,Facility 3,Issued,Complete,Yes,Refused,Negative,Complete,week 1,10,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,No
+969,30-07-2021,Due for screening,Facility 2,Issued,Complete,Yes,Done,Positive,Incomplete,week 3,14,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,No
+970,27-10-2021,Due for screening,Facility 3,Issued,Complete,Yes,Pending,Negative,Complete,week 2,12,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,No
+971,30-07-2021,Screened,Facility 3,Issued,Complete,No,Pending,Negative,Complete,week 3,5,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,No
+972,31-08-2021,Screened,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 1,14,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,No
+973,31-08-2021,Screened,Facility 1,Not issued,Incomplete,Yes,Pending,Negative,Complete,week 1,2,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,No
+974,27-10-2021,Due for screening,Facility 2,Issued,Complete,No,Pending,Negative,Complete,week 2,19,1,Unnotified,Unnotified,No,Non related ,No,Not received,Others ,No
+975,30-07-2021,Screened,Facility 3,Not issued,Complete,Yes,Done,Positive,Complete,week 3,29,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,No
+976,31-08-2021,Screened,Facility 1,Issued,Complete,Yes,Refused,Negative,Complete,week 1,20,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,No
+977,31-08-2021,Due for screening,Facility 3,Not issued,Incomplete,No,Refused,Negative,Complete,week 1,17,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,No
+978,27-10-2021,Due for screening,Facility 1,Issued,Incomplete,No,Pending,Negative,Complete,week 2,10,2,Unnotified,Notified,No,Non related ,No,Not received,Pregnant,No
+979,27-10-2021,Screened,Facility 2,Issued,Complete,Yes,Done,Positive,Incomplete,week 2,5,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,No
+980,30-07-2021,Recruited,Facility 2,Issued,Incomplete,No,Refused,Negative,Complete,week 3,9,2,Unnotified,Unnotified,No,Non related ,No,Not received,Pregnant,No
+981,30-07-2021,Recruited,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,33,2,Notified,Notified,No,Non related ,No,Not received,Pregnant,No
+982,30-07-2021,Screened,Facility 2,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,26,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,No
+983,31-08-2021,Screened,Facility 2,Issued,Complete,Yes,Pending,Negative,Complete,week 1,6,1,Notified,Unnotified,No,Non related ,No,Not received,Others ,No
+984,27-10-2021,Screened,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 2,5,2,Notified,Unnotified,No,Non related ,No,Not received,Pregnant,No
+985,30-07-2021,Due for screening,Facility 3,Issued,Incomplete,Yes,Done,Positive,Complete,week 3,14,2,Unnotified,Unnotified,Yes,Non related ,No,Not received,Pregnant,No
+986,30-07-2021,Screened,Facility 3,Issued,Incomplete,Yes,Pending,Negative,Incomplete,week 3,13,2,Notified,Notified,Yes,Non related ,No,Not received,Pregnant,No
+987,29-09-2021,Recruited,Facility 3,Not issued,Complete,Yes,Pending,Negative,Complete,week 2,21,2,Unnotified,Notified,Yes,Non related ,No,Not received,Pregnant,No
+988,31-08-2021,Recruited,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 1,3,2,Notified,Notified,Yes,Non related ,No,Not received,Pregnant,No
+989,29-09-2021,Screened,Facility 2,Issued,Complete,No,Done,Negative,Incomplete,week 2,10,2,Unnotified,Notified,Yes,Non related ,No,Not received,Pregnant,No
+990,27-10-2021,Due for screening,Facility 2,Issued,Complete,Yes,Refused,Negative,Complete,week 2,16,1,Unnotified,Unnotified,Yes,Non related ,No,Not received,Others ,No
+991,30-07-2021,Recruited,Facility 1,Not issued,Complete,Yes,Pending,Negative,Complete,week 3,14,2,Unnotified,Unnotified,Yes,Non related ,No,Not received,Pregnant,No
+992,29-09-2021,Recruited,Facility 2,Issued,Complete,Yes,Done,Positive,Complete,week 2,7,2,Unnotified,Unnotified,Yes,Non related ,No,Not received,Pregnant,No
+993,27-10-2021,Due for screening,Facility 1,Issued,Complete,No,Pending,Negative,Complete,week 2,9,1,Unnotified,Unnotified,Yes,Non related ,No,Not received,Others ,No
+994,27-10-2021,Recruited,Facility 1,Issued,Complete,No,Done,Negative,Complete,week 2,21,1,Unnotified,Unnotified,Yes,Non related ,No,Not received,Others ,No
+995,27-10-2021,Screened,Facility 1,Issued,Complete,Yes,Done,Positive,Complete,week 2,26,1,Unnotified,Notified,Yes,Non related ,No,Not received,Others ,No
+996,30-07-2021,Due for screening,Facility 1,Issued,Complete,Yes,Done,Positive,Incomplete,week 3,13,1,Unnotified,Unnotified,Yes,Non related ,No,Not received,Others ,No
+997,29-09-2021,Screened,Facility 3,Not issued,Incomplete,Yes,Done,Positive,Complete,week 2,1,2,Unnotified,Unnotified,Yes,Non related ,No,Not received,Pregnant,No
+998,30-07-2021,Recruited,Facility 1,Not issued,Complete,Yes,Done,Positive,Complete,week 3,8,1,Unnotified,Unnotified,Yes,Non related ,No,Not received,Others ,No
+999,27-10-2021,Screened,Facility 3,Issued,Complete,No,Done,Negative,Complete,week 2,23,2,Unnotified,Unnotified,Yes,Non related ,No,Not received,Pregnant,No
+1000,30-07-2021,Recruited,Facility 2,Not issued,Incomplete,No,Done,Negative,Complete,week 3,19,1,Unnotified,Unnotified,Yes,Non related ,No,Not received,Others ,No
