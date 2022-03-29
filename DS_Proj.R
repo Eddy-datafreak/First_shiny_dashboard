@@ -39,7 +39,7 @@ library(shinyWidgets)
 library(shinythemes)
 
 #Importing data
-df1<-read.csv("demo_df.csv")
+df1<-read.csv("df.csv")
 
 #Re-coding and changing the class of variables wherever necessary
 df1$age_grp<-case_when(df1$age >=0 & df1$age <=10 ~ "0-10",
