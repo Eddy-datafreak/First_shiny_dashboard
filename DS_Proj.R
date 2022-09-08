@@ -21,7 +21,7 @@ rm(list=ls())
 #setting directory
 #setwd("....//")
 
-#Importing 
+#Importing libraries
 library(tidyverse)
 library(ggplot2)
 library(viridis)
@@ -38,9 +38,14 @@ library(shinydashboard)
 library(shinyWidgets)
 library(shinythemes)
 
+#Before import the data make sure that the data is in the working directory.
+#A good practice when creating a shiny dashboard would be to have a separate folder that includes the script and the data
+
 #Importing data
 df1<-read.csv("df.csv")
 
+#The variables are purely fictional and can be replaced by any other variable
+#Also we need to create the variables listed below and will provide the same but if you already have your varslist, then go ahead with the same :p
 #Re-coding and changing the class of variables wherever necessary
 df1$age_grp<-case_when(df1$age >=0 & df1$age <=10 ~ "0-10",
                        df1$age >=11 & df1$age <=20 ~ "11-20",
